@@ -43,6 +43,8 @@
 <div align="center">
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-elhoshy" alt="ahmed-elhoshy" /></a> </p>
 </div>
+ <hr/>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
