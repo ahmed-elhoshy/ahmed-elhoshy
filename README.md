@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,github,figma,xd,git,apple,gradle,idea,postman" />
