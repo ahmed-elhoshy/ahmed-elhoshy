@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,vscode,github,figma,git,ios" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,github,figma,xd,git,apple,gradle,idea,postman" />
 </div>
 
 <br/>
