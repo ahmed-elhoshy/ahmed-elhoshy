@@ -2,13 +2,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Elhoshy!;" />
 </h1>
-<h3 align="center">. Net full stack developer</h3>
+<h3 align="center">. Net fullstack developer</h3>
 
 <br/>
 
-<div align="center">
- 
-I'm currently enrolled in the ITI 9-months .Net program 
+<div align="center"> 
 
  Ask me about **.NET, Frontend, Angular ... or anything [here](https://github.com/ahmed-elhoshy/ahmed-elhoshy/issues)**
 
@@ -33,7 +31,7 @@ I'm currently enrolled in the ITI 9-months .Net program
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=dotnet,js,html,css,angular,react,visualstudio,cs,cpp,c,flutter,dart,firebase,androidstudio,vscode,github,figma,xd,git,idea,postman" />
+   <img src="https://skillicons.dev/icons?i=dotnet,js,html,css,angular,visualstudio,cs,cpp,c,vscode,github,figma,xd,git,idea,postman,sql" />
 </div>
 
 <br/>
